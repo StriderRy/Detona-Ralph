@@ -4,13 +4,13 @@
 
 ## Descrição do Projeto
 
-O "Detona Ralph" é um jogo interativo simples construído usando HTML, CSS e JavaScript. Neste jogo, o jogador deve clicar rapidamente nos quadrados para atingir alvos em movimento, enquanto o tempo continua diminuindo.
+O "Detona Ralph" é um jogo interativo simples construído usando HTML, CSS e JavaScript. Neste jogo, o jogador deve clicar rapidamente nos quadrados para atingir o alvo em movimento, enquanto o tempo continua diminuindo.
 
 ## Como Jogar
 
 1. Abra o arquivo `index.html` em um navegador web compatível.
 2. O jogo começará automaticamente.
-3. Clique nos quadrados que contêm alvos (inimigos) para ganhar pontos.
+3. Clique nos quadrados que contêm o Ralph para ganhar pontos.
 4. Você tem um tempo limitado para marcar o máximo de pontos possível.
 5. Quando o tempo acabar, o jogo mostrará sua pontuação final.
 6. Divirta-se e tente bater seu próprio recorde!
